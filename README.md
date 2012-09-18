@@ -6,7 +6,7 @@ Falling Balls
 Grade 12 Project:
 
 Rules Of The Game:
-If the player is hit by a ball, the player loses.
+If the player is hit by a ball, the player loses.\n
 There is only one loss allowed per game.
 
 Scoring:
