@@ -13,6 +13,6 @@ Scoring:
 The longer the player survives, the higher the scor (specifically time survived -> score)
 
 Authors:
-Sankarshan Mudkavi
+Sankarshan Mudkavi, 
 Prashanth Bala
 
