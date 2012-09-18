@@ -18,6 +18,7 @@ Packages required - Allegro (Graphics handling package),
 Compiler Used - Dev C++ (Version number to be added)
 
 Authors:
-Sankarshan Mudkavi, 
-Prashanth Bala
+Prashanth Bala,
+Sankarshan Mudkavi
+
 
