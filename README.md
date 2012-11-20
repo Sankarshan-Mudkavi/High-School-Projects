@@ -20,9 +20,3 @@ Compiler Used - Dev C++ (Version number to be added)
 Authors:
 Prashanth Bala,
 Sankarshan Mudkavi
-
-Test commit from the macbook
-
-IT WORKED :D :D :D :D
-
-
