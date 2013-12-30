@@ -15,7 +15,8 @@ The longer the player survives, the higher the score (specifically time survived
 Code:
 Language - C++,
 Packages required - Allegro (Graphics handling package),
-Compiler Used - Dev C++ (Version number to be added)
+Compiler Used - Dev C++
+Independent sprites were taken from open source sprite packages (not included in repo) 
 
 Authors:
 Prashanth Bala,
